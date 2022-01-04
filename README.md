@@ -1,4 +1,4 @@
-##**Traffic Incident Management**
+### **Traffic Incident Management**
 
 *Capstone Project for Fulltime Data Analysis Cohort #5 program at Nashville Software School.*
 
@@ -14,7 +14,7 @@
 - [Acknowledgements](#Acknowledgements)
 
 
-###**Executive-Summary**
+### **Executive-Summary**
 Traffic congestion is a significant problem in growing cities throughout the country. Nashville has been growing steadily for the past decade. I wanted to research a significant problem that impacts people on some level. One of the first things that comes to mind is Traffic. I wanted to take a closer look behind the scenes and review the data and see what kind of story it tells for incidents in Tennessee. The overall project will focus on the incidents that occur on the interstate and primary roadways in Region 3 and the effects, and results based on the data and trends discovered.
 
 
@@ -37,9 +37,13 @@ Therefore, my motivation is to make a difference and create an informative revie
 ### **Schedule**
 
 11/15/2021 ..... Get the Data   
+
 11/29/2021 ..... Clean & Explore the Data
+
 12/10/2021 ..... Create Presentation of your Analysis
+
 12/17/2021 ..... Internal Demos  
+
 01/06/2022 ..... Demo Day!     
 *Back to [Contents](#Contents)*
 
@@ -79,7 +83,7 @@ o	Hourly
 - Tableau Story:
 *Back to [Contents](#Contents)*
 
-###**Incidents clustered within interactive map**
+### **Incidents clustered within interactive map**
 
 Cluster Map
 
@@ -87,7 +91,7 @@ Cluster Map
 
 ### **Known Issues and Challenges**  
 
-** Issues with missing Latitude / Longitude Coordinates**
+**Issues with missing Latitude / Longitude Coordinates**
 -The incident data sets did not including latitude and longitude coordinates, which resulted with working with another department within TDOT to obtain the coordinates.
 - The requested coordinates that were obtained from TDOT’s Asset Management office created a challenging conversion. The mile marker locations included in the file needed to be converted to GPS coordinates.
 - The mile market locations were not always provided creating a challenge for extensive research in locating the exact mile marker locations.  
@@ -110,8 +114,7 @@ Cluster Map
 - Validate that the graphs display correct information, with no *irrelevant* data included, and no *relevant* data inadvertently excluded
 - Create charts and graphs
 - Create and format dashboard
-- Prepare presentation
-- Record demo    
+- Prepare presentation 
 *Back to [Contents](#Contents)*
 
 
