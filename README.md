@@ -1,6 +1,7 @@
 ### **Traffic Incident Management**
 
 *Capstone Project for Fulltime Data Analysis Cohort #5 program at Nashville Software School.*
+![TDOT logo](assets/image.png)
 
 ### **Table of Contents**  
 - [Executive-Summary](#Executive-Summary)
@@ -85,7 +86,7 @@ o	Hourly
 
 ### **Incidents clustered within interactive map**
 
-Cluster Map
+![cluster_map_nash](assets/image8.html)
 
 
 
@@ -114,7 +115,7 @@ Cluster Map
 - Validate that the graphs display correct information, with no *irrelevant* data included, and no *relevant* data inadvertently excluded
 - Create charts and graphs
 - Create and format dashboard
-- Prepare presentation 
+- Prepare presentation
 *Back to [Contents](#Contents)*
 
 
